@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaioChaves
 - 👀 I’m interested in perception algorithms for intelligent vehicles.
-- 🌱 I’m currently working on deep learning methods for object detection on images and points cloud.
+- 🌱 I’m currently working on deep learning methods for object detection on images and point clouds.
 - 📫 How to reach me: caiochaves94@gmail.com
 
 <!---
